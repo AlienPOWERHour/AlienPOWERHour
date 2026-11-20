@@ -53,8 +53,8 @@ Public review write-ups live in the [`audits`](https://github.com/AlienPOWERHour
 
 ## Contact
 
-- Website:[www.alienpowerhour.com](https://www.alienpowerhour.com)
-- GitHub:[github.com/AlienPOWERHour](https://github.com/AlienPOWERHour)
-- X:[x.com/AlienPOWERHour](https://x.com/AlienPOWERHour)
-- Email:[Alien@AlienPOWERHour.com](mailto:Alien@AlienPOWERHour.com)
+- Website: [www.alienpowerhour.com](https://www.alienpowerhour.com)
+- GitHub: [github.com/AlienPOWERHour](https://github.com/AlienPOWERHour)
+- X: [x.com/AlienPOWERHour](https://x.com/AlienPOWERHour)
+- Email: [Alien@AlienPOWERHour.com](mailto:Alien@AlienPOWERHour.com)
 
